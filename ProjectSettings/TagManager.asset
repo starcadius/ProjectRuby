@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - agent
+  - ground
+  - blue_lasers
+  - yellow_lasers
+  - switch
+  - col
+  - New Tag
+  - Kiosk
+  - MetalDoor
+  - LaserGate
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 101871367
+    locked: 0
+  - name: objects
+    uniqueID: 1510487745
+    locked: 0
+  - name: Messages
+    uniqueID: 1533620169
+    locked: 0
